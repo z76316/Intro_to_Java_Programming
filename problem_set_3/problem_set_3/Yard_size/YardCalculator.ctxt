@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=length\ width
+comment0.target=YardCalculator(double,\ double)
+comment1.params=
+comment1.target=double\ perimeter()
+comment2.params=
+comment2.target=double\ area()
+comment3.params=
+comment3.target=double\ diagonal()
+numComments=4

@@ -1,0 +1,43 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files (x86)\Java\jdk1.7.0_79\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-core.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-device.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-service.jar;C:\Users\User\Documents\problem_set_4\Month_04a
+-d
+C:\Users\User\Documents\problem_set_4\Month_04a\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+C:\Users\User\Documents\problem_set_4\Month_04a\Month.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\User\Documents\problem_set_4\Month_04a\Month.java...
+Constructing Javadoc information...
+Standard Doclet version 1.7.0_79
+Building tree for all the packages and classes...
+Generating C:\Users\User\Documents\problem_set_4\Month_04a\doc\Month.html...
+C:\Users\User\Documents\problem_set_4\Month_04a\Month.java:40: warning - @param argument "the" is not a parameter name.
+Generating C:\Users\User\Documents\problem_set_4\Month_04a\doc\package-frame.html...
+Generating C:\Users\User\Documents\problem_set_4\Month_04a\doc\package-summary.html...
+Generating C:\Users\User\Documents\problem_set_4\Month_04a\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\User\Documents\problem_set_4\Month_04a\doc\allclasses-frame.html...
+Generating C:\Users\User\Documents\problem_set_4\Month_04a\doc\allclasses-noframe.html...
+Generating C:\Users\User\Documents\problem_set_4\Month_04a\doc\index.html...
+Generating C:\Users\User\Documents\problem_set_4\Month_04a\doc\stylesheet.css...
+1 warning
